@@ -1,0 +1,15 @@
+/Users/srknctnts/Desktop/Patika .net core/C#/donguler-for-loop/bin/Debug/net6.0/donguler-for-loop
+/Users/srknctnts/Desktop/Patika .net core/C#/donguler-for-loop/bin/Debug/net6.0/donguler-for-loop.deps.json
+/Users/srknctnts/Desktop/Patika .net core/C#/donguler-for-loop/bin/Debug/net6.0/donguler-for-loop.runtimeconfig.json
+/Users/srknctnts/Desktop/Patika .net core/C#/donguler-for-loop/bin/Debug/net6.0/donguler-for-loop.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/donguler-for-loop/bin/Debug/net6.0/donguler-for-loop.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/donguler-for-loop/obj/Debug/net6.0/donguler-for-loop.csproj.AssemblyReference.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/donguler-for-loop/obj/Debug/net6.0/donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srknctnts/Desktop/Patika .net core/C#/donguler-for-loop/obj/Debug/net6.0/donguler-for-loop.AssemblyInfoInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/donguler-for-loop/obj/Debug/net6.0/donguler-for-loop.AssemblyInfo.cs
+/Users/srknctnts/Desktop/Patika .net core/C#/donguler-for-loop/obj/Debug/net6.0/donguler-for-loop.csproj.CoreCompileInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/donguler-for-loop/obj/Debug/net6.0/donguler-for-loop.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/donguler-for-loop/obj/Debug/net6.0/refint/donguler-for-loop.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/donguler-for-loop/obj/Debug/net6.0/donguler-for-loop.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/donguler-for-loop/obj/Debug/net6.0/donguler-for-loop.genruntimeconfig.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/donguler-for-loop/obj/Debug/net6.0/ref/donguler-for-loop.dll
